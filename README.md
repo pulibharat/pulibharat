@@ -17,17 +17,6 @@
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love turning raw data into insights, and I can spend hours tweaking ML models for that extra 1% accuracy 😅**  
 
-## Hi there 👋  
-- 🔭 I’m currently working on **AI-driven solutions and computer vision projects**  
-- 🌱 I’m currently learning **deep learning, MLOps, and advanced data analytics**  
-- 👯 I’m looking to collaborate on **open-source AI/ML projects and data science applications**  
-- 🤔 I’m looking for help with **scaling machine learning models for real-world deployment**  
-- 💬 Ask me about **AI, computer vision, data visualization, and Python for ML**  
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/pulibharat) | [Email](mailto:pulibharat2007@gmail.com)**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love turning raw data into insights, and I can spend hours tweaking ML models for that extra 1% accuracy 😅**  
-
-
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
