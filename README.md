@@ -24,8 +24,15 @@
 
 ---
 
-## 📈 **Contribution Activity**
-![](https://activity-graph.herokuapp.com/graph?username=pulibharat&theme=react-dark&hide_border=true&area=true)
+## 🎵 **Now Playing**
+<!--START_SECTION:spotify-->
+**Currently vibing with music** 🎧 - Connect Spotify to see what I'm listening to!
+<!--END_SECTION:spotify-->
+
+---
+
+## 🕹️ **Discord Status**
+[![Discord Presence](https://lanyard.cnrad.dev/api/921815846223945758?theme=dark&bg=0D1117&borderRadius=8px)](https://discord.com/users/921815846223945758)
 
 ---
 
@@ -94,6 +101,11 @@
 
 ---
 
+## 📈 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulibharat&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+---
+
 ## 🏆 **Achievements & Highlights**
 
 ### **Top Contributed Repositories**
@@ -112,12 +124,13 @@
 
 ---
 
-## 📌 **Featured Projects** (Coming Soon!)
-*Showcase your best 3-5 projects here with descriptions and links*
+## 📌 **Featured Projects**
 
-1. **🤖 Project Name** - Brief description  
-2. **📊 Project Name** - Brief description  
-3. **🎯 Project Name** - Brief description  
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🤖 **Coming Soon** | AI-powered solution | Python, TensorFlow |
+| 📊 **Coming Soon** | Data analysis project | Python, Pandas, Plotly |
+| 🎯 **Coming Soon** | Computer vision project | OpenCV, TensorFlow |
 
 ---
 
