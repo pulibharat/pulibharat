@@ -7,6 +7,12 @@
   but also inspire others to believe that with <span style="color:#ff9800;">dedication</span> and <span style="color:#00bcd4;">skills</span>, anything is possible. 🚀  
 </h2>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Puli%20Bharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Building%20Campus%20Eye&descAlignY=62&descSize=18&descColor=888888" width="100%"/>
+
+</div>
+
 ---
 
 ## 👋 About Me
