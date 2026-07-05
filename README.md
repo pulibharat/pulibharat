@@ -1,8 +1,11 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/My%20Mission-Inspire%20%7C%20Create%20%7C%20Solve-blueviolet?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=220&section=header&text=Puli%20Bharat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Building%20Campus%20Eye&descAlignY=58&descSize=18&descColor=B0E0E6" width="100%"/>
-
-</div>
+<h2 align="center">
+  🌍 I want to find solutions to real-world problems that not only address the challenges,<br/>
+  but also inspire others to believe that with <span style="color:#ff9800;">dedication</span> and <span style="color:#00bcd4;">skills</span>, anything is possible. 🚀  
+</h2>
 
 ---
 
