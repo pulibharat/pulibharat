@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=820&height=140&lines=root%40puli-bharat%3A~%24+whoami;%3E+Puli+Bharat+%E2%80%94+AI%2FML+Engineer;root%40puli-bharat%3A~%24+cat+mission.txt;%3E+Inspire.+Create.+Solve.;root%40puli-bharat%3A~%24+_" alt="Terminal Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=220&section=header&text=Puli%20Bharat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Building%20Campus%20Eye&descAlignY=58&descSize=18&descColor=B0E0E6" width="100%"/>
 
 </div>
 
@@ -8,21 +8,36 @@
 
 ## 👋 About Me
 
-```json
-{
-  "name": "Puli Bharat",
-  "role": "AI/ML Engineer | B.Tech AIML @ Vishnu Institute of Technology",
-  "cgpa": "9.1 / 10",
-  "currently_building": "AI-powered classroom analytics & computer vision projects",
-  "currently_learning": ["Deep Learning", "MLOps", "Advanced Data Analytics"],
-  "looking_to_collaborate_on": "open-source AI/ML projects & data science apps",
-  "looking_for_help_with": "scaling ML models for real-world deployment",
-  "ask_me_about": ["Computer Vision", "Data Visualization", "Python for ML"],
-  "contact": ["linkedin.com/in/pulibharat", "pulibharat2007@gmail.com"],
-  "pronouns": "He/Him",
-  "fun_fact": "will spend hours tweaking a model for that extra 1% accuracy"
-}
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+B.Tech, AI & Machine Learning
+Vishnu Institute of Technology · CGPA 9.1/10
+
+**🔭 Currently Building**
+Campus Eye — AI-powered classroom presence & engagement analytics
+
+**🌱 Currently Learning**
+Deep Learning · MLOps · Advanced Data Analytics
+
+</td>
+<td width="50%" valign="top">
+
+**👯 Open to Collaborate On**
+Open-source AI/ML projects & data science apps
+
+**💬 Ask Me About**
+Computer Vision · Data Visualization · Python for ML
+
+**⚡ Fun Fact**
+I'll spend hours tweaking a model for that extra 1% accuracy
+
+</td>
+</tr>
+</table>
+
 
 <div align="center">
 
