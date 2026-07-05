@@ -17,35 +17,12 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-<br>B.Tech, AI & Machine Learning — Vishnu Institute of Technology
-<br>CGPA 9.1/10
-<br><br>
-**🔭 Currently Building**
-<br>Campus Eye — AI-powered classroom presence & engagement analytics
-<br><br>
-**🌱 Currently Learning**
-<br>Deep Learning · MLOps · Advanced Data Analytics
-
-</td>
-<td width="50%" valign="top">
-
-**👯 Open to Collaborate On**
-<br>Open-source AI/ML projects & data science apps
-<br><br>
-**💬 Ask Me About**
-<br>Computer Vision · Data Visualization · Python for ML
-<br><br>
-**⚡ Fun Fact**
-I'll spend hours tweaking a model for that extra 1% accuracy
-
-</td>
-</tr>
-</table>
+- 🎓 **Education** — B.Tech, AI & Machine Learning, Vishnu Institute of Technology (CGPA 9.1/10)
+- 🔭 **Currently Building** — Campus Eye, an AI-powered classroom presence & engagement analytics platform
+- 🌱 **Currently Learning** — Deep Learning · MLOps · Advanced Data Analytics
+- 👯 **Open to Collaborate On** — Open-source AI/ML projects & data science apps
+- 💬 **Ask Me About** — Computer Vision · Data Visualization · Python for ML
+- ⚡ **Fun Fact** — I'll spend hours tweaking a model for that extra 1% accuracy
 
 
 <div align="center">
