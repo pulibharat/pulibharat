@@ -1,30 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Puli%20Bharat%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=820&height=140&lines=root%40puli-bharat%3A~%24+whoami;%3E+Puli+Bharat+%E2%80%94+AI%2FML+Engineer;root%40puli-bharat%3A~%24+cat+mission.txt;%3E+Inspire.+Create.+Solve.;root%40puli-bharat%3A~%24+_" alt="Terminal Typing SVG" />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00BCD4&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+real+impact;Building+AI-driven+solutions+%26+Computer+Vision+projects;Currently+exploring+Deep+Learning+%26+MLOps;Always+chasing+that+extra+1%25+accuracy+%F0%9F%98%85" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/My%20Mission-Inspire%20%7C%20Create%20%7C%20Solve-blueviolet?style=for-the-badge&logo=target&logoColor=white" />
-</p>
 
 ---
 
 ## 👋 About Me
 
-- 🔭 Currently building **AI-powered classroom analytics & computer vision projects**
-- 🌱 Learning **deep learning, MLOps, and advanced data analytics**
-- 🎓 B.Tech in AI & Machine Learning, Vishnu Institute of Technology (CGPA 9.1/10)
-- 👯 Looking to collaborate on **open-source AI/ML projects and data science applications**
-- 🤔 Looking for help with **scaling machine learning models for real-world deployment**
-- 💬 Ask me about **AI, computer vision, data visualization, and Python for ML**
-- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/pulibharat) | [Email](mailto:pulibharat2007@gmail.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can spend hours tweaking ML models for that extra 1% accuracy**
+```json
+{
+  "name": "Puli Bharat",
+  "role": "AI/ML Engineer | B.Tech AIML @ Vishnu Institute of Technology",
+  "cgpa": "9.1 / 10",
+  "currently_building": "AI-powered classroom analytics & computer vision projects",
+  "currently_learning": ["Deep Learning", "MLOps", "Advanced Data Analytics"],
+  "looking_to_collaborate_on": "open-source AI/ML projects & data science apps",
+  "looking_for_help_with": "scaling ML models for real-world deployment",
+  "ask_me_about": ["Computer Vision", "Data Visualization", "Python for ML"],
+  "contact": ["linkedin.com/in/pulibharat", "pulibharat2007@gmail.com"],
+  "pronouns": "He/Him",
+  "fun_fact": "will spend hours tweaking a model for that extra 1% accuracy"
+}
+```
 
 <div align="center">
 
