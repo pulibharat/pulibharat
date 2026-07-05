@@ -1,29 +1,71 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/My%20Mission-Inspire%20%7C%20Create%20%7C%20Solve-blueviolet?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-Building%20AI%20for%20Real%20Impact-6A5ACD?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
 <h2 align="center">
-  🌍 I want to find solutions to real-world problems that not only address the challenges,<br/>
-  but also inspire others to believe that with <span style="color:#ff9800;">dedication</span> and <span style="color:#00bcd4;">skills</span>, anything is possible. 🚀  
+Turning ideas into intelligent systems that solve meaningful problems.<br>
+Building AI that creates impact and inspires others through innovation. 🚀
 </h2>
+
+<p align="center">
+<i>"Code with purpose. Learn with curiosity. Build for people."</i>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Puli%20Bharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Building%20Campus%20Eye&descAlignY=62&descSize=18&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Puli%20Bharat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Open%20Source&descAlignY=62&descSize=18&descColor=888888" width="100%"/>
 
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00E7FF&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Open+Source+Contributor;Building+AI+Products;Always+Learning+Something+New" alt="Typing SVG"/>
+</p>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **Education** — B.Tech, AI & Machine Learning, Vishnu Institute of Technology (CGPA 9.1/10)
-- 🔭 **Currently Building** — Campus Eye, an AI-powered classroom presence & engagement analytics platform
-- 🌱 **Currently Learning** — Deep Learning · MLOps · Advanced Data Analytics
-- 👯 **Open to Collaborate On** — Open-source AI/ML projects & data science apps
-- 💬 **Ask Me About** — Computer Vision · Data Visualization · Python for ML
-- ⚡ **Fun Fact** — I'll spend hours tweaking a model for that extra 1% accuracy
+🎓 AI & Machine Learning Undergraduate at **Vishnu Institute of Technology**
 
+🧠 Research Intern at **IIT Ropar**
+
+💼 AI/ML Intern at **Elevate Labs**
+
+📊 Data Visualization Intern at **Infosys Springboard**
+
+🚀 Building **Campus Eye** — AI-powered classroom presence & engagement analytics platform
+
+🌱 Currently exploring
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- MLOps
+- Advanced Data Analytics
+
+💬 Ask me about
+
+Python • Computer Vision • Machine Learning • Data Visualization
+
+⚡ Fun Fact
+
+I enjoy turning research papers into real-world AI applications.
+
+---
+
+## 🎯 Current Focus
+
+✔ Building AI-powered applications
+
+✔ Large Language Models (LLMs)
+
+✔ Computer Vision
+
+✔ Reinforcement Learning
+
+✔ MLOps & Deployment
+
+✔ Open Source Contributions
 
 <div align="center">
 
@@ -39,41 +81,47 @@
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### ML & Data Science
+### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### Data Visualization & Tools
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-### Frontend & Web
+### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Cloud & Backend
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+### Backend
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### Cloud
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### Dev Tools
+### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pulibharat&theme=algolia&no-frame=true&column=7"/>
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -92,25 +140,51 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏅 Achievements
 
-<img src="https://github-contributor-stats.vercel.app/api?username=pulibharat&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%"/>
+🏅 Research Intern — IIT Ropar
 
-- 🎯 Research Internship at **IIT Ropar** — improved model accuracy by 15%
-- 💼 AI/ML Internship at **Elevate Labs**
-- 📊 Data Visualization Internship at **Infosys Springboard**
-- 🚀 Building **Campus Eye** — an AI-powered classroom presence & engagement analytics platform (Chrome Extension + FastAPI/PostgreSQL + React)
-- 🧠 Reinforcement learning project achieving a 26x DQN performance improvement over ~59,000 episodes
+🏅 AI/ML Intern — Elevate Labs
+
+🏅 Data Visualization Intern — Infosys Springboard
+
+🏅 Built Campus Eye
+
+🏅 26× improvement in DQN reinforcement learning project
+
+🏅 Active Open Source Contributor
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 👁️ **Campus Eye** | AI-powered classroom presence & engagement analytics — local face detection via MediaPipe, FastAPI/PostgreSQL backend, React dashboard | Python, FastAPI, PostgreSQL, React, MediaPipe |
-| 🎨 **Neural Style Transfer** | Deep learning app for artistic style transfer, 90%+ satisfaction across 100+ users | Python, TensorFlow |
-| 🕹️ **DQN Reinforcement Learning** | Deep Q-Network achieving 26x performance improvement over ~59,000 training episodes | Python, TensorFlow/PyTorch |
+### 👁️ Campus Eye
+
+AI-powered classroom presence & engagement analytics platform — local face detection via MediaPipe, FastAPI/PostgreSQL backend, React dashboard.
+
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `React` `MediaPipe`
+
+---
+
+### 🧠 Reinforcement Learning
+
+Deep Q-Network with **26× performance improvement** after ~59K training episodes.
+
+**Tech Stack**
+
+`Python` `TensorFlow`
+
+---
+
+### 🎨 Neural Style Transfer
+
+Transfer artistic styles using Deep Learning, with 90%+ satisfaction across 100+ users.
+
+**Tech Stack**
+
+`TensorFlow` `Python`
 
 ---
 
@@ -120,11 +194,11 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Build Something Amazing Together
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+amazing+together!" alt="Connect Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&width=700&color=00FFAA&lines=Always+Open+to+Collaborate!;Let's+Build+Something+Amazing!" alt="Connect Typing SVG"/>
 
 <br/><br/>
 
@@ -141,5 +215,11 @@
 </a>
 
 </div>
+
+---
+
+<h3 align="center">
+⭐ Building AI today to solve tomorrow's problems ⭐
+</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
