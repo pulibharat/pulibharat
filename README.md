@@ -13,24 +13,24 @@
 <td width="50%" valign="top">
 
 **🎓 Education**
-B.Tech, AI & Machine Learning
-Vishnu Institute of Technology · CGPA 9.1/10
-
+<br>B.Tech, AI & Machine Learning — Vishnu Institute of Technology
+<br>CGPA 9.1/10
+<br><br>
 **🔭 Currently Building**
-Campus Eye — AI-powered classroom presence & engagement analytics
-
+<br>Campus Eye — AI-powered classroom presence & engagement analytics
+<br><br>
 **🌱 Currently Learning**
-Deep Learning · MLOps · Advanced Data Analytics
+<br>Deep Learning · MLOps · Advanced Data Analytics
 
 </td>
 <td width="50%" valign="top">
 
 **👯 Open to Collaborate On**
-Open-source AI/ML projects & data science apps
-
+<br>Open-source AI/ML projects & data science apps
+<br><br>
 **💬 Ask Me About**
-Computer Vision · Data Visualization · Python for ML
-
+<br>Computer Vision · Data Visualization · Python for ML
+<br><br>
 **⚡ Fun Fact**
 I'll spend hours tweaking a model for that extra 1% accuracy
 
