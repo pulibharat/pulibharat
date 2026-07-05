@@ -36,16 +36,6 @@
 
 ---
 
-## 🕹️ Discord Status
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/921815846223945758?theme=dark&bg=0D1117&borderRadius=8px)](https://discord.com/users/921815846223945758)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -108,7 +98,7 @@
 - 🎯 Research Internship at **IIT Ropar** — improved model accuracy by 15%
 - 💼 AI/ML Internship at **Elevate Labs**
 - 📊 Data Visualization Internship at **Infosys Springboard**
-- 🚀 Building **ClassPresence** — an AI-powered classroom presence & engagement analytics platform (Chrome Extension + FastAPI/PostgreSQL + React)
+- 🚀 Building **Campus Eye** — an AI-powered classroom presence & engagement analytics platform (Chrome Extension + FastAPI/PostgreSQL + React)
 - 🧠 Reinforcement learning project achieving a 26x DQN performance improvement over ~59,000 episodes
 
 ---
@@ -117,7 +107,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🎓 **ClassPresence** | AI-powered classroom presence & engagement analytics — local face detection via MediaPipe, FastAPI/PostgreSQL backend, React dashboard | Python, FastAPI, PostgreSQL, React, MediaPipe |
+| 👁️ **Campus Eye** | AI-powered classroom presence & engagement analytics — local face detection via MediaPipe, FastAPI/PostgreSQL backend, React dashboard | Python, FastAPI, PostgreSQL, React, MediaPipe |
 | 🎨 **Neural Style Transfer** | Deep learning app for artistic style transfer, 90%+ satisfaction across 100+ users | Python, TensorFlow |
 | 🕹️ **DQN Reinforcement Learning** | Deep Q-Network achieving 26x performance improvement over ~59,000 training episodes | Python, TensorFlow/PyTorch |
 
@@ -133,10 +123,21 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pulibharat)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pulibharat1234)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pulibharat2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pulibharat.dev)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+amazing+together!" alt="Connect Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/puli-bharat-58040a310/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+</a>
+&nbsp;
+<a href="mailto:pulibharat2007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+</a>
+&nbsp;
+<a href="https://puli-bharat-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/>
+</a>
 
 </div>
 
