@@ -27,7 +27,13 @@
 - ⚡ Fun fact: **I can spend hours tweaking ML models for that extra 1% accuracy**
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pulibharat/pulibharat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pulibharat/pulibharat/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/pulibharat/pulibharat/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
@@ -122,12 +128,6 @@
 ## ✍️ Daily Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
----
-
-## 📊 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=pulibharat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
