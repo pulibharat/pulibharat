@@ -84,7 +84,6 @@ Deep Q-Network Agent
 <p align="center"><i>⚡ Fun fact — I enjoy turning research papers into real, working AI applications.</i></p>
 
 <br/>
-<br/>
 
 ## 🎯 Current Focus
 
