@@ -10,9 +10,11 @@
 
 <br/>
 <br/>
+<br/>
 
 ## 🧭 The Short Version
 
+<br/>
 <br/>
 
 <table align="center">
@@ -42,13 +44,17 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
 <br/>
+<br/>
+<br/>
 
 ## 🚀 My Journey So Far
 
+<br/>
 <br/>
 
 <h3>🔬&nbsp;&nbsp;Research Intern — IIT Ropar</h3>
@@ -81,31 +87,36 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
+<br/>
+<br/>
 <br/>
 
 ## 🧠 What I'm Deep Into Right Now
 
 <br/>
+<br/>
 
 <div align="center">
 
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-6A5ACD?style=for-the-badge)
-&nbsp;
+&nbsp;&nbsp;
 ![RAG](https://img.shields.io/badge/-RAG-00E7FF?style=for-the-badge&logoColor=black)
-&nbsp;
+&nbsp;&nbsp;
 ![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge)
 
 <br/><br/>
 
 ![MLOps](https://img.shields.io/badge/-MLOps-1a1a1a?style=for-the-badge)
-&nbsp;
+&nbsp;&nbsp;
 ![DataAnalytics](https://img.shields.io/badge/-Advanced%20Data%20Analytics-150458?style=for-the-badge)
 
 </div>
 
+<br/>
 <br/>
 
 <h3 align="center">💬 Ask me about: Python • Computer Vision • Machine Learning • Data Visualization</h3>
@@ -116,13 +127,17 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
 <br/>
+<br/>
+<br/>
 
 ## 🐍 The Pac-Man Eats My Commits
 
+<br/>
 <br/>
 
 <div align="center">
@@ -137,63 +152,134 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
+<br/>
+<br/>
 <br/>
 
 ## 🛠️ Tech Stack
 
 <br/>
-
-<div align="center">
-
-<h3>Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=c,java,js,py&theme=dark" height="70"/>
-
-<br/><br/>
-
-<h3>AI & Machine Learning</h3>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" height="70"/>
 <br/>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+<table align="center" width="100%">
+
+<tr><td align="center">
+
+### Languages
+
+<br/>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
+&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=1a1a1a)
+
+</td></tr>
+
+<tr><td><br/><br/></td></tr>
+
+<tr><td align="center">
+
+### AI & Machine Learning
+
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a)
 
 <br/><br/>
 
-<h3>Frontend</h3>
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&labelColor=1a1a1a)
+&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![mlflow](https://img.shields.io/badge/mlflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1a1a1a)
 
-<img src="https://skillicons.dev/icons?i=html,css,figma,react&theme=dark" height="70"/>
+</td></tr>
 
-<br/><br/>
+<tr><td><br/><br/></td></tr>
 
-<h3>Backend & Data</h3>
+<tr><td align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,fastapi,firebase&theme=dark" height="70"/>
+### Frontend
 
-<br/><br/>
+<br/>
 
-<h3>Cloud & Tools</h3>
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
+&nbsp;
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a)
 
-<img src="https://skillicons.dev/icons?i=gcp,netlify,git,github&theme=dark" height="70"/>
+</td></tr>
 
-</div>
+<tr><td><br/><br/></td></tr>
 
+<tr><td align="center">
+
+### Backend & Data
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a)
+
+</td></tr>
+
+<tr><td><br/><br/></td></tr>
+
+<tr><td align="center">
+
+### Cloud & Tools
+
+<br/>
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+&nbsp;
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
+
+</td></tr>
+
+</table>
+
+<br/>
 <br/>
 <br/>
 
 ---
 
 <br/>
+<br/>
+<br/>
 
 ## 🏆 Trophy Case
 
+<br/>
 <br/>
 
 <p align="center">
@@ -202,13 +288,17 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
 <br/>
+<br/>
+<br/>
 
 ## 📊 The Numbers
 
+<br/>
 <br/>
 
 <div align="center">
@@ -228,13 +318,17 @@ Deep Q-Network Agent
 
 <br/>
 <br/>
+<br/>
 
 ---
 
 <br/>
+<br/>
+<br/>
 
 ## 🚀 Featured Builds
 
+<br/>
 <br/>
 
 ### 👁️ CampusEye
@@ -246,6 +340,7 @@ Local, privacy-first face detection on the student's own device via MediaPipe, a
 `Python` `FastAPI` `PostgreSQL` `React` `MediaPipe`
 
 <br/>
+<br/>
 
 ### 🧠 Reinforcement Learning — Deep Q-Network
 
@@ -253,6 +348,7 @@ Local, privacy-first face detection on the student's own device via MediaPipe, a
 
 `Python` `TensorFlow`
 
+<br/>
 <br/>
 
 ### 🎨 Neural Style Transfer
@@ -263,17 +359,22 @@ Deep-learning-driven artistic style transfer, rated **90%+ satisfaction** across
 
 <br/>
 <br/>
+<br/>
 
 ---
 
+<br/>
+<br/>
 <br/>
 
 ## ✍️ Daily Inspiration
 
 <br/>
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 
+<br/>
 <br/>
 <br/>
 
@@ -282,9 +383,12 @@ Deep-learning-driven artistic style transfer, rated **90%+ satisfaction** across
 <div align="center">
 
 <br/>
+<br/>
+<br/>
 
 ## 🤝 Let's Build Something Amazing Together
 
+<br/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&center=true&width=800&color=00FFAA&lines=Always+Open+to+Collaborate!;Let's+Build+Something+Amazing!" alt="Connect Typing SVG"/>
@@ -303,10 +407,11 @@ Deep-learning-driven artistic style transfer, rated **90%+ satisfaction** across
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="50"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
 ### ⭐ Building AI today to solve tomorrow's problems ⭐
 
+<br/>
 <br/>
 
 </div>
