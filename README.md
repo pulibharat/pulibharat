@@ -153,17 +153,25 @@ Deep Q-Network Agent
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pulibharat&theme=algolia&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pulibharat&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15&row=2" width="80%"/>
 </p>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pulibharat&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulibharat&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pulibharat&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=430" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulibharat&theme=blueberry&hide_border=false&layout=compact&card_width=430" width="42%"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulibharat&theme=blueberry" width="70%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/stars/pulibharat?style=for-the-badge&color=6A5ACD&label=Total%20Repo%20Stars&logo=github" height="35"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pulibharat&style=for-the-badge&color=00E7FF&label=Profile+Views" height="35"/>
 
 </div>
 
