@@ -67,7 +67,7 @@ Deep Q-Network Agent
 &nbsp;
 ![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge)
 
-<br/><br/>
+<br/>
 
 ![MLOps](https://img.shields.io/badge/-MLOps-1a1a1a?style=for-the-badge)
 &nbsp;
@@ -165,15 +165,15 @@ Deep Q-Network Agent
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pulibharat&theme=blueberry" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=pulibharat&theme=blueberry" width="70%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/pulibharat?style=for-the-badge&color=6A5ACD&label=Total%20Repo%20Stars&logo=github" height="35"/>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=pulibharat&style=for-the-badge&color=00E7FF&label=Profile+Views" height="35"/>
 
 </div>
+
+
 
 ## 📈 Contribution Graph
 
