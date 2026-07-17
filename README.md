@@ -23,35 +23,68 @@ Building AI that creates impact and inspires others through innovation. 🚀
 
 ---
 
-## 👋 About Me
+## 🧭 The Short Version
 
-🎓 AI & Machine Learning Undergraduate at **Vishnu Institute of Technology**
+<br/>
 
-🧠 Research Intern at **IIT Ropar**
+<table align="center">
+<tr>
+<td align="center" width="240">
+<h1>🎓</h1>
+<h3>AI & ML Undergrad</h3>
+Vishnu Institute of Technology
+</td>
+<td align="center" width="240">
+<h1>🔬</h1>
+<h3>Research Intern</h3>
+IIT Ropar
+</td>
+<td align="center" width="240">
+<h1>👁️</h1>
+<h3>Building</h3>
+CampusEye
+</td>
+<td align="center" width="240">
+<h1>⚡</h1>
+<h3>26× Faster</h3>
+Deep Q-Network Agent
+</td>
+</tr>
+</table>
 
-💼 AI/ML Intern at **Elevate Labs**
+<br/>
+<br/>
 
-📊 Data Visualization Intern at **Infosys Springboard**
+## 🧠 What I'm Deep Into Right Now
 
-🚀 Building **Campus Eye** — AI-powered classroom presence & engagement analytics platform
+<br/>
 
-🌱 Currently exploring
+<div align="center">
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning
-- MLOps
-- Advanced Data Analytics
+![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-6A5ACD?style=for-the-badge)
+&nbsp;
+![RAG](https://img.shields.io/badge/-RAG-00E7FF?style=for-the-badge&logoColor=black)
+&nbsp;
+![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge)
 
-💬 Ask me about
+<br/><br/>
 
-Python • Computer Vision • Machine Learning • Data Visualization
+![MLOps](https://img.shields.io/badge/-MLOps-1a1a1a?style=for-the-badge)
+&nbsp;
+![DataAnalytics](https://img.shields.io/badge/-Advanced%20Data%20Analytics-150458?style=for-the-badge)
 
-⚡ Fun Fact
+</div>
 
-I enjoy turning research papers into real-world AI applications.
+<br/>
 
----
+<h3 align="center">💬 Ask me about: Python • Computer Vision • Machine Learning • Data Visualization</h3>
+
+<br/>
+
+<p align="center"><i>⚡ Fun fact — I enjoy turning research papers into real, working AI applications.</i></p>
+
+<br/>
+<br/>
 
 ## 🎯 Current Focus
 
